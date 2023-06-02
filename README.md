@@ -32,6 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![(7)](https://github.com/Ashwinkumar-03/Ex-No-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118663725/b8f4de69-cc24-4172-99ee-810d321b9f94)
+
 
 ### Name:
 ### Register Number:
